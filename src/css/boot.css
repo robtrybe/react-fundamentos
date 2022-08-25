@@ -21,9 +21,16 @@ body {
     height: 100%;
 }
 
+#root{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding:0 10px;
+}
+
 .container-form {
     margin:30px auto;
-    max-width: 600px;
+    max-width: 320px;
     width:100%;
 }
 
