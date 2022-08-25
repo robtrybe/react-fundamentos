@@ -9,9 +9,9 @@ class Preview extends Component{
             <article className="preview-container">
                 <h2>Dados Informados</h2>
                 {/* Eamil */}
-                <div></div>
+                <div>Robson</div>
                 {/* Salvar email */}
-                <div></div>
+                <div>rob@hotmail.com</div>
             </article>
         );
     }

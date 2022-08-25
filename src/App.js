@@ -10,7 +10,7 @@ class App extends Component {
     return (
       <>
         <div className="container-form">
-          <h1>Formulário de Login</h1>
+          <h1>Formulário de Dados</h1>
           <Form />
         </div>
         <Preview />
