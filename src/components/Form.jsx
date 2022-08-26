@@ -9,8 +9,17 @@ class Form extends Component{
         
         return (
             <form action="" method="post" >
-                <input type="text" name="userName" placeholder="Nome" value="" />
-                <input type="text" name="userEmail" placeholder="Email" value="" />
+                <input
+                type="text"
+                name="userName"
+                placeholder="Nome"
+                value=""
+                />
+                <input
+                type="text"
+                name="userEmail"
+                placeholder="Email"
+                value="" />
                 <div className="container-checkbox">
                 <input type="checkbox" name="saveEmail" />Salvar Email
                 </div>
